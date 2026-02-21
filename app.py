@@ -23,7 +23,7 @@ st.set_page_config(
     layout="wide"
 )
 
-MODEL_PATH = "saved_models/emotion_model"
+MODEL_PATH = "avinash19/mental-health-emotion-model"
 
 emotion_labels = ["sadness", "fear", "anger", "joy", "neutral"]
 
